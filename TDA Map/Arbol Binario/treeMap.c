@@ -1,13 +1,4 @@
-/*  "treeMap.c"
-
-    TAREA 3
-
-    Nombre: Bruno Esteban Diaz Ureta
-    Rut: 19850701-6
-    Curso: ICI2240-1
-    Fecha de entrega: 16/05/2017
-
-*/
+/*  "treeMap.c" */
 
 #include "treeMap.h"
 
